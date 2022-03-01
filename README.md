@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/nurcinozer" target="blank"><img src="https://img.shields.io/twitter/follow/nurcinozer?logo=twitter&style=for-the-badge" alt="nurcinozer" /></a> </p>
 
-- 🔭 I’m currently working on [Advopass](https://advopass.com/)
-
 - 🌱 I’m currently learning **nodejs, mongodb, express and react native to become a full-stack developer.**
 
 - 👨‍💻 All of my projects are available at [https://nurcin.co/projects](https://nurcin.co/projects)

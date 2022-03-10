@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurçin</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer who wants to be a full-stack engineer from Turkey</h3>
 
 <p align="left"> <a href="https://twitter.com/nurcinozer" target="blank"><img src="https://img.shields.io/twitter/follow/nurcinozer?logo=twitter&style=for-the-badge" alt="nurcinozer" /></a> </p>
 

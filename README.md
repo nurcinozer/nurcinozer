@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **nodejs, mongodb, express and react native to become a full-stack developer.**
 
-- 👨‍💻 All of my projects are available at [https://nurcin.co/projects](https://nurcin.co/projects)
+- 👨‍💻 All of my projects are available at [https://nurcin.dev/projects](https://nurcin.dev/projects)
 
-- 📝 I regularly write articles on [https://nurcin.co/blog](https://nurcin.co/blog)
+- 📝 I regularly write articles on [https://nurcin.dev/blog](https://nurcin.dev/blog)
 
 - 💬 Ask me about **html, css, react, gatsby, nextjs and wordpress.**
 

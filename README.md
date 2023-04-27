@@ -12,10 +12,6 @@ I am able to understand problems that live on the internet, whether that be webs
 - `Postgres` / `Prisma`
 - `React Native` / `Expo`
 
-### Also, I started to interested in:
-
-- `Blockchain` / `Smart Contracts` / `Ethereum` / `Solidity`
-
 
 ## Find me around the web 🌎: <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA"><img align="left" width="200" height="250" src="https://user-images.githubusercontent.com/20209512/192349988-917a9a67-db57-4ff2-a0e7-fc7083f6e1e3.png"></a>
 - Learning in public on <a href="https://www.twitter.com/nurcinozer">Twitter</a> or <a href="https://www.nurcin.dev">nurcin.dev</a> 🐦💻

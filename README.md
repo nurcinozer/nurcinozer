@@ -1,16 +1,16 @@
 # Hi, I'm Nurçin 🦄
 
-I am a <b>software engineer</b> based in Antalya, TURKEY.
+I am a <b>software engineer</b> based in Antalya, Turkey.
 
-I am able to understand problems that live on the internet, whether that be websites or applications clearly, break them down into hypotheses and propose solution in a coherent manner. I have the ability to learn <b>new technologies</b> on my own and I am not intimidated by new technologies. My goal is to always write codes that are <b>readable, clean and compatible</b>. I love what I do, and also I adore the creative process in designing, it has always been a favorite for me beside the coding. I can build products that provide pixel-perfect, performant experiences.
+I understand internet-related problems like websites and applications well. I can break them down into smaller parts and propose solutions in a clear way. I'm not afraid to learn new technologies on my own. My goal is to write clean, readable code that works well with different systems. I enjoy both coding and the creative process of designing. I can create products that look perfect and perform smoothly.
 
 ### Here are a few technologies I've been working with recently:
 
-- `React` / `NextJS` / `Tailwindcss`
-- `TypeScript` / `NodeJS` / `NestJS`
+- `React` / `NextJS` `TypeScript` / `Tailwindcss`
 - `GraphQL` / `Apollo Client`
-- `Postgres` / `Prisma`
 - `React Native` / `Expo`
+- `Postgres` / `Prisma`
+- `NodeJS` / `NestJS`
 
 
 ## Find me around the web 🌎: <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA"><img align="left" width="200" height="250" src="https://user-images.githubusercontent.com/20209512/192349988-917a9a67-db57-4ff2-a0e7-fc7083f6e1e3.png"></a>

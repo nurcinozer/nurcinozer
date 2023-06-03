@@ -6,7 +6,7 @@ I understand internet-related problems like websites and applications well. I ca
 
 ### Here are a few technologies I've been working with recently:
 
-- `React` / `NextJS` `TypeScript` / `Tailwindcss`
+- `React` / `NextJS` / `TypeScript` / `Tailwindcss`
 - `GraphQL` / `Apollo Client`
 - `React Native` / `Expo`
 - `Postgres` / `Prisma`
